@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
-- 👨‍💻 All of my projects are available at [jahiduljeesan.netlify.app](jahiduljeesan.netlify.app)
-
 - 💬 Ask me about **Java, Kotlin, Android Framework**
 
 - 📫 How to reach me **jahiduljeesan@gmail.com**
