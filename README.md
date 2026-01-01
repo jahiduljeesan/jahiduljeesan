@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
-- 💬 Ask me about **Java, Kotlin, Android Framework**
+- 💬 Ask me about **Java, Kotlin, Android and Spring Framework**
 
 - 📫 How to reach me **jahiduljeesan@gmail.com**
 
