@@ -1,22 +1,73 @@
 <h1 align="center">Hi 👋, I'm Jahidul Jeesan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">🚀 Android & Flutter Developer | Backend Learner | Bangladesh 🇧🇩</h3>
 
-- 🌱 I’m currently learning **Dart and Flutter**
-
-- 👨‍💻 All of my projects are available at [jahiduljeesan.netlify.app](jahiduljeesan.netlify.app)
-
-- 💬 Ask me about **Java, Kotlin, Android Framework**
-
-- 📫 How to reach me **jahiduljeesan@gmail.com**
-
-- 📄 Know about my experiences [jahiduljeesan.netlify.app](jahiduljeesan.netlify.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jahiduljeesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahiduljeesan" height="30" width="40" /></a>
-<a href="https://fb.com/jahiduljeesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahiduljeesan" height="30" width="40" /></a>
-<a href="https://instagram.com/jahiduljeesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahiduljeesan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://jahiduljeesan.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:jahiduljeesan@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-Contact-red?style=for-the-badge">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+- 🌱 Currently learning **Dart & Flutter**
+- 💡 Strong in **Java, Kotlin & Android Framework**
+- 🔥 Building **real-world mobile apps**
+- 🎯 Goal: Become a **Full Stack Mobile App Developer**
+
+---
+
+### 🌐 Portfolio & Resume
+- 🔗 Portfolio: **https://jahiduljeesan.netlify.app**
+- 📄 Experience: Available on portfolio
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/jahiduljeesan" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://fb.com/jahiduljeesan" target="blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+</a>
+<a href="https://instagram.com/jahiduljeesan" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=android,java,kotlin,flutter,dart,mongodb,mysql,spring,firebase,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jahiduljeesan&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahiduljeesan&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Top Projects
+- 📱 Habit Tracker App (Flutter)
+- 🗺️ Real-time Driver Tracking System (Android)
+- 🌐 Portfolio Website (Flutter Web)
+
+---
+
+### ⚡ Fun Fact
+> I love turning ideas into real apps that people can actually use 🚀
+
+---
+
+<p align="center">
+  ⭐ From <b>Jahidul Jeesan</b>
+</p>
