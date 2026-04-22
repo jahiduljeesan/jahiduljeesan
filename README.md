@@ -53,21 +53,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jahiduljeesan&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahiduljeesan&theme=tokyonight" />
 </p>
-
----
-
-### 🚀 Top Projects
-- 📱 Habit Tracker App (Flutter)
-- 🗺️ Real-time Driver Tracking System (Android)
-- 🌐 Portfolio Website (Flutter Web)
-
----
-
-### ⚡ Fun Fact
-> I love turning ideas into real apps that people can actually use 🚀
-
----
-
-<p align="center">
-  ⭐ From <b>Jahidul Jeesan</b>
-</p>
