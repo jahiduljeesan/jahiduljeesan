@@ -21,7 +21,7 @@
 ---
 
 ### 🌐 Portfolio & Resume
-- 🔗 Portfolio: **https://jahiduljeesan.netlify.app**
+- 🔗 Portfolio: **https://jahiduljeesan.pro.bd**
 - 📄 Experience: Available on portfolio
 
 ---
